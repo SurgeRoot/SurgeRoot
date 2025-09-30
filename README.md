@@ -5,12 +5,9 @@ Welcome to **Devoria**, your all-in-one partner for **web development**, **digit
 ---
 
 ## 📊 GitHub Stats
-
-To make your GitHub stats visually appealing and prominently displayed, we'll use the donut chart layout from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-```markdown
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devoria01&show_icons=true&theme=tokyonight&count_private=true&layout=donut)
-)
+![Devoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devoria01&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devoria01&layout=compact&theme=tokyonight)
+![Devoria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devoria01&theme=tokyonight)
 ```
 
 ## 💻 Web Development
