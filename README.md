@@ -1,13 +1,13 @@
-# 🚀 Devoria | CyberWeb Dev Marketing
+# 🚀 SurgeRoot | CyberWeb Dev Marketing
 
-Welcome to **Devoria**, your all-in-one partner for **web development**, **digital marketing**, and **cybersecurity**. We build modern web solutions, drive measurable growth, and secure your digital presence.
+Welcome to **SurgeRoot**, your all-in-one partner for **web development**, **digital marketing**, and **cybersecurity**. We build modern web solutions, drive measurable growth, and secure your digital presence.
 
 ---
 
 ## 📊 GitHub Stats
-![Devoria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devoria01&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devoria01&layout=compact&theme=tokyonight)
-![Devoria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devoria01&theme=tokyonight)
+![SurgeRoot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurgeRoot&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurgeRoot&layout=compact&theme=tokyonight)
+![SurgeRoot's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurgeRoot&theme=tokyonight)
 
 ---
 
@@ -93,7 +93,7 @@ Protect your digital assets with **proactive measures**:
 
 ## 📬 Get in Touch
 
-* ✉️ Email: [devoria01@outlook.com](mailto:devoria01@outlook.com)
+* ✉️ Email: [devoria01@outlook.com](mailto:surgeroot@hotmail.com)
 * 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 * 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 ```
