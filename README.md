@@ -93,7 +93,7 @@ Protect your digital assets with **proactive measures**:
 
 ## 📬 Get in Touch
 
-* ✉️ Email: [devoria01@outlook.com](mailto:surgeroot@hotmail.com)
+* ✉️ Email: [surgeroot@hotmail.com](mailto:surgeroot@hotmail.com)
 * 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 * 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 ```
